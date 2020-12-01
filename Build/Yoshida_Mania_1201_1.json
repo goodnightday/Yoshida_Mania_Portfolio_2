@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Yoshida Mania",
+"productVersion": "0.1",
+"dataUrl": "Yoshida_Mania_1201_1.data.unityweb",
+"wasmCodeUrl": "Yoshida_Mania_1201_1.wasm.code.unityweb",
+"wasmFrameworkUrl": "Yoshida_Mania_1201_1.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.0a5"
+}
